@@ -1,5 +1,4 @@
-# testrepo
+# The Capstone Project
 
-##editing this file
+This file consistes of all the codes related to the capstone project as per the coursera curriculum on data science
 
-This is a Markdown file
